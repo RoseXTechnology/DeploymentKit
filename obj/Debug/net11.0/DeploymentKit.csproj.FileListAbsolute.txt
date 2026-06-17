@@ -1,0 +1,12 @@
+C:\Startups\DeploymentKit\bin\Debug\net11.0\DeploymentKit.deps.json
+C:\Startups\DeploymentKit\bin\Debug\net11.0\DeploymentKit.dll
+C:\Startups\DeploymentKit\bin\Debug\net11.0\DeploymentKit.pdb
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.csproj.AssemblyReference.cache
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.AssemblyInfoInputs.cache
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.AssemblyInfo.cs
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.csproj.CoreCompileInputs.cache
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.dll
+C:\Startups\DeploymentKit\obj\Debug\net11.0\refint\DeploymentKit.dll
+C:\Startups\DeploymentKit\obj\Debug\net11.0\DeploymentKit.pdb
+C:\Startups\DeploymentKit\obj\Debug\net11.0\ref\DeploymentKit.dll
